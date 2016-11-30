@@ -1,0 +1,13 @@
+.container, .game-screen {
+  border: 0px solid black;
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+h1 {
+  border: 2px solid black;
+  width: 78.66%;
+  margin: 0 auto;
+  text-align: center;
+}
